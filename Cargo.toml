@@ -1,0 +1,9 @@
+[package]
+name = "obj-model-converter"
+version = "0.1.0"
+authors = ["goncalopalaio"]
+edition = "2018"
+
+[dependencies]
+tobj = "0.1.7"
+
